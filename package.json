@@ -1,0 +1,44 @@
+{
+  "name": "bkbot",
+  "version": "1.0.0",
+  "description": "A slackbot that answers frequently asked questions in different areas such as human resources, engineering, IT security etc.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kesavasreeram/BKBot.git"
+  },
+  "keywords": [
+    "slackbot"
+  ],
+  "contributors": [
+    {
+      "name": "Chris Paskvan"
+    },
+    {
+      "name": "Jitendra Malakalapalli"
+    },
+    {
+      "name": "Karthik Muthupalaniappan"
+    },
+    {
+      "name": "Kesava Sreeram Talabattula"
+    },
+    {
+      "name": "Marie Macaisa"
+    },
+    {
+      "name": "Vamsi Kotagiri"
+    }
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kesavasreeram/BKBot/issues"
+  },
+  "homepage": "https://github.com/kesavasreeram/BKBot#readme",
+  "dependencies": {
+    "lda": "^0.1.9"
+  }
+}
